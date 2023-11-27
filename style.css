@@ -1,0 +1,19 @@
+*{
+	font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+	text-align: center;
+}
+input, button{
+	display:inline-block;
+	margin: 30px;
+}
+
+#output {
+	border: 2px solid;
+	min-height: 20px;
+	width: 50%;
+	margin:auto;
+}
+
+h1{
+	text-align: center;
+}
